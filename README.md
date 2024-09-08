@@ -1,2 +1,2 @@
 # fortune-cookie
-displaying fortunes upon clicking fortune cookies
+displaying fortunes upon hovering the mouse on the fortune cookies
